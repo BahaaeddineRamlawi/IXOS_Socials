@@ -1,30 +1,26 @@
 IXOS Shoes & Bags
 
-This is a simple landing page for IXOS Shoes & Bags, built with React
-and styled with CSS.
-It displays the store logo, name, and quick links to WhatsApp,
-Instagram, and (soon) the official website.
+This is a simple landing page for IXOS Shoes & Bags, built with React and styled with CSS. It displays the store logo, name, and quick links to WhatsApp, Instagram, and (soon) the official website.
 
 ---
 
-🚀 Features
+Features
 
-- 📱 WhatsApp Number – Direct link to contact the store.
-- 👥 WhatsApp Group – Join the community group.
-- 📸 Instagram – Explore the latest shoes & bags collection.
-- 🌍 Website (Coming Soon) – Placeholder for the future official
-  website.
-- 🎨 Styled with a custom CSS file (App.css).
-- 🖼️ Logo is displayed from /public/logo.png.
+- WhatsApp Number – Direct link to contact the store.
+- WhatsApp Group – Join the community group.
+- Instagram – Explore the latest shoes & bags collection.
+- Website (Coming Soon) – Placeholder for the future official website.
+- Styled with a custom CSS file (App.css).
+- Logo is displayed from /public/logo.png.
 
 ---
 
-📦 Installation
+Installation
 
 Clone the repository and install dependencies:
 
-    git clone <your-repo-url>
-    cd <your-project-folder>
+    git clone https://github.com/BahaaeddineRamlawi/IXOS_Socials.git
+    cd IXOS_Socials
     npm install
 
 ---
@@ -33,25 +29,25 @@ Clone the repository and install dependencies:
 
 In the project directory, you can run:
 
-npm start
+    npm start
 
-Runs the app in development mode.
+Runs the app in development mode.  
 Open http://localhost:3000 in your browser.
 
 The page reloads automatically when you make changes.
 
 ---
 
-🛠️ Build for Production
+Build for Production
 
     npm run build
 
-This builds the app for production into the build folder.
+This builds the app for production into the build folder.  
 The app will be optimized and ready for deployment.
 
 ---
 
-📚 Dependencies
+Dependencies
 
 This project uses the following main dependencies:
 
@@ -67,7 +63,7 @@ Install Font Awesome libraries if needed:
 
 ---
 
-📂 Project Structure
+Project Structure
 
     ├── public/
     │   ├── logo.png           # Store logo
@@ -81,21 +77,21 @@ Install Font Awesome libraries if needed:
 
 ---
 
-🌐 Links Used
+Links Used
 
-- WhatsApp Number: wa.me/+96103856611
-- WhatsApp Group: chat.whatsapp.com/5bBtq6iPXZNFikDBebz9II
-- Instagram: instagram.com/ixos_shoes_and_bags
-- Website: Coming Soon 🚧
-
----
-
-📖 Learn More
-
-- React Documentation
-- Create React App Documentation
-- Font Awesome Docs
+- WhatsApp Number: https://wa.me/+96103856611
+- WhatsApp Group: https://chat.whatsapp.com/5bBtq6iPXZNFikDBebz9II
+- Instagram: https://www.instagram.com/ixos_shoes_and_bags/
+- Website: Coming Soon
 
 ---
 
-💼 Made for IXOS Shoes & Bags by Bahaaeddine Ramlawi
+Learn More
+
+- React Documentation: https://reactjs.org/
+- Create React App Documentation: https://create-react-app.dev/
+- Font Awesome Docs: https://fontawesome.com/how-to-use/on-the-web/using-with/react
+
+---
+
+Made for IXOS Shoes & Bags by Bahaaeddine Ramlawi
