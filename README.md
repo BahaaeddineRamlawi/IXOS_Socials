@@ -1,70 +1,101 @@
-# Getting Started with Create React App
+IXOS Shoes & Bags
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple landing page for IXOS Shoes & Bags, built with React
+and styled with CSS.
+It displays the store logo, name, and quick links to WhatsApp,
+Instagram, and (soon) the official website.
 
-## Available Scripts
+---
+
+🚀 Features
+
+- 📱 WhatsApp Number – Direct link to contact the store.
+- 👥 WhatsApp Group – Join the community group.
+- 📸 Instagram – Explore the latest shoes & bags collection.
+- 🌍 Website (Coming Soon) – Placeholder for the future official
+  website.
+- 🎨 Styled with a custom CSS file (App.css).
+- 🖼️ Logo is displayed from /public/logo.png.
+
+---
+
+📦 Installation
+
+Clone the repository and install dependencies:
+
+    git clone <your-repo-url>
+    cd <your-project-folder>
+    npm install
+
+---
+
+▶️ Running the Project
 
 In the project directory, you can run:
 
-### `npm start`
+npm start
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Runs the app in development mode.
+Open http://localhost:3000 in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The page reloads automatically when you make changes.
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🛠️ Build for Production
 
-### `npm run build`
+    npm run build
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This builds the app for production into the build folder.
+The app will be optimized and ready for deployment.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+📚 Dependencies
 
-### `npm run eject`
+This project uses the following main dependencies:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React
+- Font Awesome React
+  - @fortawesome/react-fontawesome
+  - @fortawesome/free-brands-svg-icons
+  - @fortawesome/free-solid-svg-icons
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Install Font Awesome libraries if needed:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+    npm install @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons @fortawesome/free-solid-svg-icons
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+📂 Project Structure
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    ├── public/
+    │   ├── logo.png           # Store logo
+    │   └── index.html
+    ├── src/
+    │   ├── App.js             # Main component
+    │   ├── App.css            # Styling for the app
+    │   └── index.js           # Entry point
+    ├── package.json
+    └── README.md
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+🌐 Links Used
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+- WhatsApp Number: wa.me/+96103856611
+- WhatsApp Group: chat.whatsapp.com/5bBtq6iPXZNFikDBebz9II
+- Instagram: instagram.com/ixos_shoes_and_bags
+- Website: Coming Soon 🚧
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+📖 Learn More
 
-### Making a Progressive Web App
+- React Documentation
+- Create React App Documentation
+- Font Awesome Docs
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+💼 Made for IXOS Shoes & Bags by Bahaaeddine Ramlawi
